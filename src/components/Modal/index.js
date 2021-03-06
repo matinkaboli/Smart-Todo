@@ -50,4 +50,5 @@ const ModalComp = (props) => {
     </>
   );
 };
+
 export default ModalComp;
